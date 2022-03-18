@@ -82,7 +82,7 @@ left:50%;
 #box-boughtUpgrades
 {
 left:50%;
-top:50%;
+top:75%;
 }
 
 #box-buildings{background:rgba(0,0,0,0);}
