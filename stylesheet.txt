@@ -44,7 +44,7 @@
 	top:0px;
 	bottom:0px;
 	overflow:hidden;
-	width:60%;
+	width:40%;
 	position:absolute;
 }
 #box-res.fullWidth
