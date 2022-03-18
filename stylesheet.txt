@@ -75,7 +75,8 @@
 {right:50%;}
 #box-upgrades
 {bottom:50%;}
-
+#box-boughtUpgrades
+{top:50%;left:50%;}
 
 #box-buildings{background:rgba(0,0,0,0);}
 #box-upgrades{background:rgba(0,0,0,0);}
