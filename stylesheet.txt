@@ -75,7 +75,7 @@
 {right:50%;}
 #box-upgrades
 {
-bottom:50%;
+bottom:25%;
 left:50%;
 }
 
