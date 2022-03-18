@@ -75,14 +75,13 @@
 {right:50%;}
 #box-upgrades
 {
-bottom:25%;
+bottom:60%;
 left:50%;
 }
 
 #box-boughtUpgrades
 {
-left:50%;
-top:75%;
+top:40%;
 }
 
 #box-buildings{background:rgba(0,0,0,0);}
