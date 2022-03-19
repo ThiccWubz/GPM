@@ -102,9 +102,10 @@
 }
 .upgrade.cantAfford:hover
 {
+	opacity:0.15;
 	box-shadow:0px 0px 4px #6cf;
 }
-.upgrade.owned,.achiev.owned
+.upgrade.owned,.achiev.owned, .building.owned
 {
 	background#00e60b;
 }
