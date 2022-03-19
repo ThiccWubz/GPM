@@ -108,7 +108,7 @@
 }
 .upgrade.owned,.achiev.owned, .building.owned
 {
-	background#00e60b;
+	background#39f;
 }
 .thing-text,.thing-costs{font-weight:bold;}
 
